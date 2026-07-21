@@ -1,6 +1,6 @@
 
 - 237 , 876 , Middle element GFG practice , 2095 delete middle element , Delete middle element GFG Practice , 19 , Delete element from the last , Kth from End of Linked List GFG practice , intersection of two LinkedList GFG practice , 160 ,  1721 (swap the LinkedList element) ,  141(cycle LinkedList - fast and slow pointer) , same GFG practice ,  82 ,83 remove duplicate node in a sorted LinkedList , Merge two sorted linkedList , 148 , Merge sort on linkedList gfg practice , 86 partition of the linkedList , rotate a LinkedList GFG Practice , 2 add two numbers ,
-  
+  61 , 
 
 ## 237
 ```java 
@@ -100,4 +100,5 @@ class Solution {
              t.next.next = null;
         }
 ```
-
+86
+![[Pasted image 20260210122917.png]]

@@ -55,16 +55,208 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOPs/Principles.md",
+                "file": "LinkedList/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles"
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "1c0fba6ed8e2caac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinkedList/Doubly LL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Doubly LL"
+            }
+          },
+          {
+            "id": "5c590e3326557c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theory"
+            }
+          },
+          {
+            "id": "4874bcfde0893ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "08cbb1a50e4c9038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/Problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problems"
+            }
+          },
+          {
+            "id": "7f5d84b400d3f724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "7840d5ea54b67f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees/Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basics"
+            }
+          },
+          {
+            "id": "03143285b931aa21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees/Diameter of a Binary Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diameter of a Binary Tree"
+            }
+          },
+          {
+            "id": "12d4786a017e71ed",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Trees/Images/Pasted image 20260125172642.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260125172642"
+            }
+          },
+          {
+            "id": "b034776d4e0c7eac",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Trees/Images/Pasted image 20251220032510.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251220032510"
+            }
+          },
+          {
+            "id": "3d2358254b3484ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees/Right view of Binary Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Right view of Binary Tree"
+            }
+          },
+          {
+            "id": "b37a10e618bda72a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees/left view of the binary Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "left view of the binary Tree"
+            }
+          },
+          {
+            "id": "c1f79fc762e4e265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees/lowest common ancestor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lowest common ancestor"
+            }
+          },
+          {
+            "id": "c593fa57af540226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees/SumTree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SumTree"
+            }
+          },
+          {
+            "id": "68a65be36a2a78c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heaps/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -226,46 +418,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "68afdac65211d006",
+  "active": "68a65be36a2a78c3",
   "lastOpenFiles": [
-    "OOPs/Notes.md",
-    "Recursion/Notes.md",
-    "Binary/bit manipulation.md",
-    "Trees/Notes.md",
-    "Recursion/Bitwise operator and number System.md",
-    "Recursion/BackTracking.md",
+    "Heaps/Pasted image 20260426022139.png",
+    "Trees/preorder(Iterative).md",
+    "Trees/Images/Pasted image 20260424231153.png",
+    "Trees/SumTree.md",
+    "Trees/Images/Pasted image 20260423215215.png",
+    "Trees/lowest common ancestor.md",
+    "Trees/Images/Pasted image 20260417104342.png",
+    "Trees/left view of the binary Tree.md",
+    "Trees/Right view of Binary Tree.md",
+    "Trees/Images/Pasted image 20260416233829.png",
+    "Trees/Basics.md",
+    "Trees/Images/Pasted image 20260124191238.png",
+    "Trees/Images/Pasted image 20251220032510.png",
+    "Trees/Images/Pasted image 20260125172642.png",
+    "Trees/Images",
+    "Trees/Images/Pasted image 20260416233557.png",
+    "Trees/Diameter of a Binary Tree.md",
+    "Trees/Images/Pasted image 20260416231258.png",
+    "Trees/Images/Pasted image 20260416231119.png",
+    "Untitled 1",
+    "Untitled.md",
+    "Stacks/Problems.md",
+    "Stacks/HW.md",
+    "Stacks/Theory.md",
+    "Stacks/Untitled.md",
+    "LinkedList/Doubly LL.md",
+    "Stacks",
     "LinkedList/Notes.md",
     "LinkedList/Methods.md",
     "LinkedList/LeetCode and GFG.md",
-    "Heaps/Notes.md",
-    "Methods-Solving.md",
-    "Binary",
-    "Untitled.md",
-    "Untitled.canvas",
-    "LinkedList/Pasted image 20260208142235.png",
-    "LinkedList/Pasted image 20260207231605.png",
-    "LinkedList/Pasted image 20260207230816.png",
-    "LinkedList/Pasted image 20260207171822.png",
-    "LinkedList/Pasted image 20260207163026.png",
-    "2026-02-07.md",
+    "Recursion/BackTracking.md",
     "DSA Problems.md",
-    "Recursion/Subsets-subsquence.md",
-    "Recursion/Stream.md",
-    "Recursion/Searching and sorting.md",
-    "Recursion/Problems.md",
-    "LinkedList/Pasted image 20260207002800.png",
-    "LinkedList/Pasted image 20260206235515.png",
-    "LinkedList/Pasted image 20260206235106.png",
-    "LinkedList/Pasted image 20260205194556.png",
-    "LinkedList/Pasted image 20260205192940.png",
+    "OOPs/Notes.md",
+    "Methods-Solving.md",
     "OOPs/Principles.md",
+    "Recursion/Notes.md",
+    "Binary/bit manipulation.md",
+    "Recursion/Bitwise operator and number System.md",
+    "Heaps/Notes.md",
+    "Binary",
+    "Untitled.canvas",
     "LinkedList",
-    "Trees/Traversel.md",
     "OOPs",
     "Heaps",
     "Trees",
     "Untitled.base",
-    "Welcome.md",
     "Recursion"
   ]
 }

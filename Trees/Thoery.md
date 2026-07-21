@@ -1,4 +1,4 @@
-![[Pasted image 20260125172642.png]]
+	![[Pasted image 20260125172642.png]]
 properties-
 ![[Pasted image 20260125172707.png]]
 7 Level => Height of root - Height of node
