@@ -1,4 +1,4 @@
-![[Pasted image 20260709142841.png]]
+ ![[Pasted image 20260709142841.png]]
 - You have to find the Number of ways in which you can arrange the values to Wrong Positions.
 like you have a , b , c , d
 so you have arrange them so that they don't placed at thier right positions

@@ -59,8 +59,8 @@ class Solution {
 
 ![[Pasted image 20260528030629.png]]
 ### Using Tabulation
-- That is also known as iterative DP
-- You have to create an array that Contains  the max loot till that index of the array
+- That is also known as Iterative DP.
+- You have to create an array that Contains  the max loot till that index of the Array.
 ![[Pasted image 20260624000242.png]]
 See at index 0 the max loot is 6 and 
 At index 1 the max loot can be the element at index 0 or the max loot till the [current index - 1]

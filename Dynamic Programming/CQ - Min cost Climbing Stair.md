@@ -1,5 +1,8 @@
 - Explanation you have to select between the { next } or { next to next stair } selecting the current element.
-- Tmne Current stair select Kri and now you have to select between next stair or next to next stair sum of [arr[i]+(i+1)]  is smaller or the sum of [arr[i]+(i+2)] this is.....
+- Tmne Current stair select Kri and now you have to select between next stair or next to next stair sum of [arr[i]+(i+1)]  is smaller or the sum of [arr[i]+(i+2)] this is.
+
+Memoisation - min cost from that particular stair to the top
+arr[i] + min(arr[i+1],arr[i+2]);
 ![[Pasted image 20260528185001.png]]
 
 ![[Pasted image 20260528145056.png]]
@@ -29,7 +32,18 @@ class Solution {
     }
 };
 ```
+## Using Tabulation 
 
 
-#### using Tabulation 
+![[Pasted image 20260809154313.png]]
 ![[Pasted image 20260624012339.png]]
+
+
+### Tabulation and Memoisation 
+- in Memoization - you have to find the min/max cost from the ith index to the end and in memoisation dp fill in backward direction
+
+  
+- In tabulation - you have to find the min/max cost till the ith index from the start and dp fill from the start 
+![[Pasted image 20260809155042.png]]
+- Example of Tabulation-
+![[Pasted image 20260809155532.png]]
